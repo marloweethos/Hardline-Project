@@ -315,7 +315,7 @@
 			-o-transition: opacity 0.25s ease-in-out;
 			-ms-transition: opacity 0.25s ease-in-out;
 			transition: opacity 0.25s ease-in-out;
-			background-image: url("images/overlay.png");
+			background-image: url("images/overlayimages.png");
 			content: '';
 			display: block;
 			height: 100%;
@@ -822,7 +822,7 @@
 
 	#footer {
 		background-attachment: scroll;
-		background-color: #4eb980;
+		background-color: #ed872d;
 		background-image: url("images/bottom-3200.svg");
 		background-position: top center;
 		background-repeat: repeat-x;
@@ -872,7 +872,7 @@
 		#footer .button {
 			background: white;
 			box-shadow: inset 0 0 0 1px white;
-			color: #4eb980;
+			color: #ed872d;
 		}
 
 			#footer input[type="submit"]:hover,
